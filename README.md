@@ -19,7 +19,7 @@ Max 200 woorden. Beschrijf je project in het kort, waarbij je deze vragen zeker 
 - Hero sketch/render/image, vb.
 
 <p align="center">
-  <img src="img/hero_example.png" width="100%">
+  <img src="./docs/img/hero_example.png" width="100%">
 </p>
 
 ## Introductie
@@ -71,8 +71,8 @@ Licht toe op welke manier je AI gebruikte in dit project.
 
 This repository contains both software and design materials created as part of an industrial design energineering project at Ghent University.
 
-- **Software and code:** [MIT License](./LICENSE)  
-- **Design, documentation, CAD, and media:** [CC BY 4.0 License](./cad/LICENSE)
+- **Software and code:** [MIT License](./LICENSE-MIT)  
+- **Design, documentation, CAD, and media:** [CC BY 4.0 License](./LICENSE-CC)
   
 You are free to reuse and build upon this work, both commercially and non-commercially, as long as proper attribution is given to the original authors.
 
